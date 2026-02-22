@@ -5,5 +5,5 @@ export const supabase = createClient(
   import.meta.env.VITE_SUPABASE_ANON_KEY,
   { auth: { persistSession: true, autoRefreshToken: true } }
 );
-VITE_SUPABASE_URL=https://gcmnaugklfvueaqgwawt.supabase.co
-VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdjbW5hdWdrbGZ2dWVhcWd3YXd0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTk0OTQwODgsImV4cCI6MjA3NTA3MDA4OH0.Kl2CY5GYOnPIZLd0ZA9r7dyPNDvRgzxGZugRq1IkwJA
+VITE_SUPABASE_URL=https://ekmnyixxbqpdkzyaclsg.supabase.co
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVrbW55aXh4YnFwZGt6eWFjbHNnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE2ODgzOTQsImV4cCI6MjA4NzI2NDM5NH0.GGA38ja1mht_BtRVNbeBEFXSddzxNXcJMZIjSaK3kP0
